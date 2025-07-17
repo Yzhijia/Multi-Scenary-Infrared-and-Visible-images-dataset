@@ -28,8 +28,8 @@ MSIV/
 ## 🖼 Sample Images
 
 <p align="center">
-  <img src="./dataset_problems.pdf" width="48%" />
-  <img src="./dataset.pdf" width="48%" />
+  <img src="./dataset_problems.jpg" width="48%" />  
+  <img src="./dataset.jpg" width="48%" />
 </p>
 
 
