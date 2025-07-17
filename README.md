@@ -2,7 +2,7 @@
 
 The **MSIV** dataset is a newly proposed benchmark designed for training and evaluating infrared and visible image fusion algorithms. It contains diverse, real-world scenes captured under various environmental conditions and with multiple types of thermal targets.
 
-> 📄 Used in the paper: [DSFuse: A Dual-Diffusion Structure for Feature Fidelity Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/3584834), accepted by IEEE TNNLS 2025.
+> 📄 Used in the paper: [DSFuse: A Dual-Diffusion Structure for Feature Fidelity Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/11074762), accepted by IEEE TNNLS 2025.
 
 ## 🌟 Highlights
 
@@ -28,10 +28,13 @@ MSIV/
 ## 🖼 Sample Images
 
 <p align="center">
-  <img src="docs/figures/sample_pair1.png" width="48%" />
+  <img src="./dataset_problems.pdf" width="48%" />
+  <img src="./dataset.pdf" width="48%" />
 </p>
 
+
 ## 📥 Download
+
 
 You can download the dataset via:
 
@@ -39,7 +42,8 @@ You can download the dataset via:
 git clone https://github.com/Yzhijia/Multi-Scenary-Infrared-and-Visible-images-dataset.git
 ```
 
-Or [click here to download zip](https://github.com/Yzhijia/Multi-Scenary-Infrared-and-Visible-images-dataset/archive/refs/heads/main.zip)
+If you need annotations for training detection models, you can download dataset with annotation:
+📥 [Download MSIV Dataset for Detection](https://github.com/Yzhijia/Multi-Scenary-Infrared-and-Visible-images-dataset)
 
 ## 🧪 Recommended Use
 
